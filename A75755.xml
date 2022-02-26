@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At a generall meeting of all the subscribers to the stock of the Royal Company holden at Drapers-Hall the 19th of December 1671 His Royal Highness present with the Sub-governour and Deputy-governour.</title>
+            <author>Royal African Company.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75755</idno>
+            <idno type="STC">Wing A4091</idno>
+            <idno type="STC">ESTC R213325</idno>
+            <idno type="EEBO-CITATION">99897394</idno>
+            <idno type="PROQUEST">99897394</idno>
+            <idno type="VID">135511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2487:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At a generall meeting of all the subscribers to the stock of the Royal Company holden at Drapers-Hall the 19th of December 1671 His Royal Highness present with the Sub-governour and Deputy-governour.</title>
+                  <author>Royal African Company.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal African Company --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135511:1" rendition="simple:additions"/>
+            <head>AT a Generall meeting of all the ſubſcribers to the ſtock of the <hi>Royal Company,</hi> holden at <hi>Drapers-Hall</hi> the 19<hi rend="sup">th</hi> of <hi>December 1671</hi> His <hi>Royal Highneſs</hi> preſent with the <hi>Sub-governour</hi> and <hi>Deputy-governour.</hi>
+            </head>
+            <p>THe Preamble, Upon which the ſubſcriptions were made, being read from Paragraph to Paragraph, ſeveral Amendments were then made, and ordered by the Court to be taken care of, to be ſo reprinted by the preſent Committee of the old ſtock, and the ſame to be ready for every ſubſcriber, that ſhall pleaſe to call for them at the <hi>African-Houſe</hi> in <hi>Throgmorton-ſtreet.</hi>
+            </p>
+            <pb n="2" facs="tcp:135511:2"/>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas, at a General Court of the Company of Royal Adventurers of <hi>England</hi> Trading into <hi>Africa,</hi> holden at <hi>Whitehall</hi> the 11 <hi>September</hi> 1671. It was Reſolved, that for the future carrying on the Trade to <hi>Africa,</hi> in Purſuance of his Majeſties gracious Letters Patents: A new Stock of one hundred thouſand Pounds or more, be raiſed by any of his Ma<g ref="char:EOLhyphen"/>jeſties Subjects whatſoever, who ſhall on, or before the 10<hi rend="sup">th</hi> of <hi>December</hi> next, ſubſcribe to Adventure any part thereof upon the following Terms, Conditions and Articles, which are to be duly kept and ſtrictly obſerved by all perſons whatſoever, that ſhall be hereafter concerned or imployed in the Affairs of this Company; but no mans ſubſcription ſhall be Obligatory, unleſs there be one hundred thouſand pounds ſub<g ref="char:EOLhyphen"/>ſcribed.</p>
+            <p n="1">I. That the payment of the ſeveral and reſpective Sums ſubſcribed, ſhall be in ten equal payments, and paid to the Treaſurer of the Company, at the Treaſury Chamber at the <hi>African</hi>-houſe in <hi>London, viz.</hi>
+            </p>
+            <list>
+               <item>Two Tenth parts on or before the 25th <hi>Jan.</hi> next 1671.</item>
+               <item>One Tenth part on or before 25th <hi>Feb.</hi> 1671.</item>
+               <item>One Tenth part on or before the 25th <hi>March</hi> 1672</item>
+               <item>One Tenth part on or before the 25th <hi>April</hi> 1672.</item>
+               <item>One Tenth part on or before the 25th <hi>May</hi> 1672.</item>
+               <item>One Tenth part on or before the 25th <hi>June</hi> 1672.</item>
+               <item>One Tenth part on or before the 25th <hi>July</hi> 1672.</item>
+               <item>One Tenth part on or before the 25th <hi>Auguſt</hi> 1672.</item>
+               <item>And the laſt one Tenth part on or before the 25th <hi>Sep.</hi> 1672.</item>
+            </list>
+            <p>Unleſs any of the reſpective days of payment above expreſſed ſhall happen to be on a Sunday, and in that Caſe the payments may be made the day following.</p>
+            <p n="2">II. That if any Subſcriber do fail to pay the firſt Payment at the time and place aforeſaid, his ſaid Subſcription ſhall be totally void.</p>
+            <p n="3">III. That if any Subſcriber having paid in the firſt payment ſhall fail to pay any of the following payments, a Penalty of two <hi>per Cent.</hi> for each Month ſhall be charged to his Debt on account, untill his ſaid Subcription ſhall be fully ſatisfied and paid, or until the whole Money by him before paid be thereby extinguiſhed. And further he ſhall be uncapable to be choſen into the Government of the Stock, or give any Vote at any General Court, or Court of Aſſiſtants, until he hath paid as well his Penalties as his Subſcription.</p>
+            <p n="4">IV. That the former Adventurers ſhall be paid out of this new joynt Stock, the Sum of thirty four thouſand Pounds, wherewith they may be enabled to pay to their Creditors forty <hi>per Cent.</hi> of what their Debts amount unto, and Ten <hi>per Cent.</hi> to every of the former Adventurers for what Stock they have paid, and the ſaid Sum, is for, and in Conſideration of all their remains, Debts, Leaſe of the <hi>African</hi> houſe, Rent payable by the <hi>Gambia</hi> Adventurers, for a remaining term of four years by Leaſe granted them to the North parts of <hi>Africa,</hi> Plantations, Forts, Privi<g ref="char:EOLhyphen"/>ledges and Immunities whatſoever, due and belonging to the ſaid Stock of the former Adventurers in all places what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p n="5">V. That every Adventurer who ſhall be preſent at any General court ſhall Vote and Rule in the Stock and Trade according to his Adventure, that is to ſay; for every one hundred pounds Adventure to have one Vote; But no Ad<g ref="char:EOLhyphen"/>venturer ſhall be capable to be choſen into the Court of Aſſiſtants, or any Committee to manage the Affairs of this Stock, unleſs he have ſubſcribed four hundred pounds at leaſt.</p>
+            <pb n="3" facs="tcp:135511:2"/>
+            <p n="6">VI. That immediately after the Subſcription of this intended Stock, and before the time of the firſt payment, a Ge<g ref="char:EOLhyphen"/>neral Court of all the Subſcribers be ſummoned to chooſe a Governour, Sub-governour, Deputy-governour, and twenty four Aſſiſtants, and as ſoon after as may be, another Court be ſummoned to ſelect five of the ſaid Aſſiſtants to be a ſtanding Committee to act as is hereafter appointed: and with ſo many of the Subſcribers as ſhall be preſent to prepare Rules and Orders for managing and governing the Trade as well abroad as at home.</p>
+            <p n="7">VII. That general Courts be ſummoned twice every year, or oftner as occaſion may require: One upon the Tenth of <hi>January,</hi> except it fall upon a Sunday, and then on the Eleventh day; for Election of Governour, Sub-governour, Deputy-governour, and twenty four Aſſiſtants for the year enſuing, of which not more than ſixteen ſhall be capable to be choſen two years together, nor any be continued longer than three years ſucceſſively, nor ſhall they be capable to be choſen again, till two years afterwards be expired. And another Court that day ſeaven night after, for Election of the aboveſaid ſtanding Committee of five, of whom, not more than three ſhall be capable of being choſen three years ſucceſſively, at which laſt Court the Aſſiſtants ſhall preſent to the general Adventurers a State of the Companies Stock at that time by an exact Ballance of the Books, and an indifferent valuation of all remaining effects, that there<g ref="char:EOLhyphen"/>by the Adventurers may know the true condition of their Stock and Trade,</p>
+            <p n="8">VIII. That the Sub-governour and Deputy-governour ſhall not be continued longer than two years together and that the Deputy-governour ſhall always be a Merchant, and one of the five of the Committee.</p>
+            <p n="9">IX. That all general Courts, Courts of Aſſiſtants and Meetings of the Committee, ſhall be holden only at the <hi>African-houſe</hi> in <hi>London,</hi> unleſs His Royal Highneſs (being Governour) ſhall particulary direct to ſummon the general Courts to any other place.</p>
+            <p n="10">X That the Court of Aſſiſtants ſhall be ſummoned to meet on the firſt <hi>Thurſday</hi> in every Month, or oftner if there ſhall be cauſe, to give directions to the ſtanding Committee, and to receive an account from them of their proceedings, and to do what elſe ſhall be needful in order to the good management of the Stock.</p>
+            <p n="11">XI. That there be a ſtanding Committee of five perſons annually choſen, (as is aforeſaid) by Plurality of Votes at a general Court, and by Balletting: Three whereof to be a <hi>Quorum,</hi> to manage the Affairs of the Stock according to ſuch directions as ſhall from time to time be given them, either by the general Court, or Court of Aſſiſtants, and in the intervals of Courts of Aſſiſtants, where delays may be prejudicial, that the ſaid Committee may have power to proceed to act further, as in their diſcretion they ſhall judge moſt advantageous to the Company, <hi>provided</hi> they act nothing contradictory to any Order of the general Court, or Court of Aſſiſtants before made. The ſaid Committees daily proceedings to be Regiſtred, as alſo the proceedings of the general Courts, and Courts of Aſſiſtants, and all their Bargains for Goods, and Contracts for fraights of Ships to be made <hi>publiquely</hi> at the Board, and immediately entred into Books to be kept for ſuch purpoſes.</p>
+            <p n="12">XII. That the ſaid ſtanding Committee do meet three days in every week at leaſt, and ſtay three hours each time either Mornings or Evenings as ſhall be moſt convenient, if buſineſs require it, and that they be allowed each man for every of thoſe three meeting days twenty ſhillings; and if any of them be abſent upon any pretence, or for any reaſon whatſoever, that he looſe that days Salary, provided a <hi>Quorum</hi> do meet; But if no <hi>Quorum</hi> do meet, then every perſon that ſhall be abſent ſhall not only looſe the Salary for that day, but pay twenty ſhillings to the Company, ſo far as his whole Salary for that year ſhall amount unto; to which end, no reward or Salary ſhall be paid to any of the Committee; until their attendances for the whole year be examined by the Records of the Committee, which ſhall be done at the firſt Court of Aſſiſtants after a new Election, and warrants for their rewards, ſhall be ſigned at that Court accordingly.</p>
+            <p n="13">XIII. That any Member of the Company may be preſent at the Court of Aſſiſtants or meetings of the Committee to hear their debates, and may offer his opinion; but none to Vote in the reſolution, ſave thoſe of the Court of Aſſiſtants or Committee.</p>
+            <p n="14">XIV. That if any Member, Officer or Servant of the Company ſhall directly defraud the Company in any thing, or receive any guift or bribe from any perſon in any wiſe, relating to the concerns of the Company, or ſhall trade to, or from any Ports or places within the limits of the Campany's Charter, other than in the joynt Stock, or ſo as ſhall be allowed by a general Court or Court of Aſſiſtants: that ſuch Member do forfeit and looſe his whole Stock, or elſe do pay ſuch pecuniary mulct or penalty as a general Court ſhall impoſe, and ſuch Officer or Servant ſhall forfeit all Salary due unto him, be forthwith diſcharged, and made uncapable of being ever after reſtored, and further be proſecuted according to Law, and that the ſaid Forfeitures do redound to the Uſe and benefit of the Ad<g ref="char:EOLhyphen"/>venturers in general, and that Bonds be given by every Officer, to ſubmit to the ſaid mulcts and penalties.</p>
+            <p n="15">XV. That every member having ſhare or part in any Goods to be ſold, or Ship to be fraighted for the Company's Uſe, ſhall if he be then preſent, or any ways privy to ſuch Bargain, declare his Intereſt to the Committee, and ſhall cauſe the ſame to be Recorded, otherwiſe upon diſcovery to be made thereof, he ſhall forfeit his whoſe Stock, or pay ſuch penalty as a general Court ſhall impoſe upon him, and the Committee ſhall be prohibited, during their being Committees to ſell any of their own Goods to the Company directly or indirectly upon the aforeſaid Penalties with<g ref="char:EOLhyphen"/>out the Allowance of the Court of Aſſiſtants.</p>
+            <p n="16">XVI. That the Stock and Dividents of each reſpective Adventurer ſhall from time to time be obliged for ſuch debts and ingagements as ſuch Adventurer ſhall become ingaged in to the Company, and that the Courts of Aſſiſtants may, and ſhall detain the ſame for the benefit of the generality, until ſuch debts and ingagements are fully ſatisfied.</p>
+            <pb n="4" facs="tcp:135511:3" rendition="simple:additions"/>
+            <p n="17">XVII. That if it ſhall pleaſe God that at any time the Stock ſhall be augmented fifty <hi>per Cent.</hi> a Divident of twenty <hi>per Cent.</hi> at leaſt ſhall be forthwith made to the ſeveral Adventures, and afterwards annually one half part, or more, as the general Court ſhall direct, of all profits that ſhall be made, ſhall be divided in the like manner.</p>
+            <p n="18">XVIII. That no Dividents ſhall be made in Goods to the Adventurers, but in Money only.</p>
+            <p n="19">XIX. That all Goods received for the Company's account from Forrain parts be ſold publiquely at the Candle, and be paid for to the Treaſurer, before their delivery to the Buyer, <hi>except Gold and Silver,</hi> which ſhall be always Coin<g ref="char:EOLhyphen"/>ed in the Tower of <hi>London,</hi> except there be a ſpecial Order from the general Court that directs otherwiſe.</p>
+            <p n="20">XX. That every Member of the Company before they give any Vote in any Election, ſhall take an Oath to the Company, according to the forme agreed on, and herewith at large expreſſed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>An Oath for the Members of the Royal Company.</head>
+                        <p>YOu do ſwear to be good and true to our Soveraign Lord the Kings Majeſty, and to his Heirs and Succeſſors, and that you will be faithfull to the Governour, Sub-governour, Deputy-governour and Company of Royal Adventurers of <hi>England,</hi> Tra<g ref="char:EOLhyphen"/>ding into <hi>Africa</hi> in the management of their Trade; The ſecrets of the ſaid Company which ſhall be given you in charge to conceal by the ſaid Governour, Sub-governour or Deputy-Governour you will not diſcloſe; and during the preſent joint ſtock of this Company you will not Trade to any of the limits of this Company's Charter, without leave of the general Court or Court of Aſſiſtants.</p>
+                        <closer>So help you God.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p n="21">XXI. That every Officer or Servant to be imployed by the Company do firſt give good ſecurity, and then take an Oath to perform their reſpective duties in their ſeveral imployments, and that they be choſen annually by Plurality of Votes by Balletting, at the firſt general Court after the 12th <hi>January,</hi> and that if any Officer or Servant ſhall miſ<g ref="char:EOLhyphen"/>demean himſelf upon complaint of the Committee, the Court of Aſſiſtants ſhall have power to ſuſpend them until the next general Court.</p>
+            <p n="22">XXII. That no meeting or Aſſembly of the Adventurers ſhall be deemed or taken to be a general Court, or ſhall have power to alter any Rules or Articles of this Preamble, or make any new or further Rules or Orders for the Government of the Company, unleſs there be preſent at ſuch meeting or Aſſembly, the major part of the Aſſiſtants, and at leaſt twelve of the generality, beſides the Governour, Sub-governour, Deputy-Governour, or one of them, or provided ſo many Adventurers be preſent, as ſhall be concerned in the major part of the Stock, but at a general Court (ſo conſtituted) all ſuch Orders or alterations, as ſhall at any time be made by Plurality of Votes by Balleting, ſhall be binding to the whole Company, and no queſtion ſhall be otherwiſe determined than by Balleting, if required by a<g ref="char:EOLhyphen"/>ny Member preſent either at a general Court, or Court of Aſſiſtants, wherein either any particular Member or Ser<g ref="char:EOLhyphen"/>vant of the Company is concerned, or any of the Company's money by way of Guift or Reward ſhall be diſpoſed of.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
